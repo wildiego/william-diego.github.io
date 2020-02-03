@@ -1,2 +1,2 @@
 # About me
-https://www.linkedin.com/in/wdiego 
+https://william-diego.github.io
